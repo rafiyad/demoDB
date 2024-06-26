@@ -1,5 +1,5 @@
 # Setting Up and Running a Java Project with PostgreSQL
-
+## Download only the zip file and extract in your computer if total project missing any file
 This guide will walk you through setting up a Java project using Java 17 or later, integrating it with PostgreSQL, importing it into IntelliJ IDEA (or Eclipse), and testing the necessary APIs.
 
 ## Prerequisites
