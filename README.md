@@ -50,7 +50,7 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/teamcollab
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
-
+```
 ### 4. Start the Project
 Run the main class of your Spring Boot application (usually Application.java or similarly named class with @SpringBootApplication annotation).
 
